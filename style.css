@@ -41,6 +41,7 @@ a:active {
     .info {
         text-align: center;
         display: block;
+        margin-right: 25px;
     }
     
     .photo {
