@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
-    background-color: rgb(114, 114, 114);
+    background-color: #f1f1f1;
     color: #0f141e;
     font-style: 16px;
     font-family: 'Roboto', sans-serif;
@@ -23,6 +23,7 @@ a:active {
 }
 
 .photo{
+    display: block;
     width: 280px;
     height: 200px;
     border-radius: 20px;
